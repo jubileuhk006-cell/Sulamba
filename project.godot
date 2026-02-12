@@ -1,0 +1,11 @@
+[global]
+title="Dragon Ball Z Fighting Game"
+version="1.0"
+
+[configuration]
+splash_enabled=false
+processing=true
+
+[debug]
+debug_remote_enabled=false
+logger_enabled=true
